@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="App%20Logo/vivimusic.png" alt="ViviMusic Logo" width="120" height="120" style="border-radius: 20px;">
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:152671,50:5669bd,100:afbeff&height=200&section=header&text=VIVI%20Music%20Canvas&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Custom%20Background%20Visuals%20for%20vivi-music&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
@@ -11,6 +8,12 @@
 [![Validation](https://img.shields.io/badge/CI-Automated-blue?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=152671&color=5669bd)](#)
 [![License](https://img.shields.io/badge/License-GPL_3.0-blue?style=for-the-badge&logo=opensource&logoColor=white&labelColor=152671&color=5669bd)](LICENSE)
 
+<br/>
+<br/>
+
+<img src="App%20Logo/vivimusic.png" alt="ViviMusic Logo" width="140" height="140" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+
+<br/>
 <br/>
 
 > **The central mapping and repository block for serving gorgeous, looping background videos (Canvases) natively inside the [`vivi-music`](https://github.com/vivizzz007/vivi-music) Android application.**
