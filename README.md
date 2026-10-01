@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="App%20Logo/vivimusic.png" alt="ViviMusic Logo" width="120" height="120" style="border-radius: 20px;">
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:152671,50:5669bd,100:afbeff&height=200&section=header&text=VIVI%20Music%20Canvas&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Custom%20Background%20Visuals%20for%20vivi-music&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
