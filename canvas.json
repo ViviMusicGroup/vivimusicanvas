@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "song": "ループザルーム (feat. Hatsune Miku)",
+      "artist": "rusino",
+      "url": "https://vivimusicanvas.mkmdevilmi.workers.dev/Song/ループザルーム.mp4"
+      "album": "ループザルーム",
+    },
+    {
       "song": "Dracula",
       "artist": "Tame Impala",
       "url": "https://vivimusicanvas.mkmdevilmi.workers.dev/Song/1.mp4",
